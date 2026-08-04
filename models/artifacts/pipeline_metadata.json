@@ -1,0 +1,41 @@
+{
+    "version": "1.0",
+    "description": "Credit Risk Master Ensemble Model (CatBoost, XGBoost, LightGBM)",
+    "ensemble_weights": {
+        "CatBoost": 0.3333333333333333,
+        "XGBoost": 0.3333333333333333,
+        "LightGBM": 0.3333333333333333
+    },
+    "features_required_at_input": [
+        "age",
+        "gender",
+        "marital_status",
+        "employment_status",
+        "income",
+        "number_of_dependants",
+        "residence_type",
+        "years_at_current_address",
+        "city",
+        "state",
+        "zipcode",
+        "loan_purpose",
+        "loan_type",
+        "sanction_amount",
+        "loan_amount",
+        "processing_fee",
+        "gst",
+        "net_disbursement",
+        "loan_tenure_months",
+        "principal_outstanding",
+        "bank_balance_at_application",
+        "disbursal_date",
+        "installment_start_dt",
+        "number_of_open_accounts",
+        "number_of_closed_accounts",
+        "total_loan_months",
+        "delinquent_months",
+        "total_dpd",
+        "enquiry_count",
+        "credit_utilization_ratio"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "optimal_threshold": 0.12894762909026544,
+    "expected_recall": 0.9615832363213038,
+    "expected_precision": 0.5946724262059035,
+    "max_f2_score": 0.8559585466602573
+}

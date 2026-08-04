@@ -1,0 +1,15 @@
+﻿catboost
+imbalanced-learn
+joblib
+lightgbm
+matplotlib
+numpy
+optuna
+pandas
+scikit-learn
+scipy
+seaborn
+shap
+statsmodels
+streamlit
+xgboost
